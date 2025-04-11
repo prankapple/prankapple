@@ -8,13 +8,13 @@ Hi! I'm prankapple 😄. I am passionate about software development 💻, especi
 
 MemX is a project that explores malicious software concepts for educational purposes 📚. It's a work-in-progress, with a focus on understanding how certain malicious behaviors can be implemented. Please use with caution and for educational purposes only ⚠️.
 
-⚠️Link⚠️ :  https://github.com/prankapple\MemX **PLEASE CHECK THE README THIS IS MALICIOUS**
+⚠️Link⚠️ :  [MemX](https://github.com/prankapple/MemX) **PLEASE CHECK THE README THIS IS MALICIOUS**
 
 **RunWithPower 🤓**
 
 RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
 
-🔐Link🔐 : https://github.com/prankapple/RunWithPower
+🔐Link🔐 : [Runwithpower](https://github.com/prankapple/RunWithPower)
 
 I have several ongoing projects that may not yet be available for public use. Stay tuned for updates 📡!
 Contributing 🤝
