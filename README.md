@@ -8,7 +8,7 @@ Hi! I'm prankapple 😄. I am passionate about software development 💻, especi
 
 MemX is a project that explores malicious software concepts for educational purposes 📚. It's a work-in-progress, with a focus on understanding how certain malicious behaviors can be implemented. Please use with caution and for educational purposes only ⚠️.
 
-⚠️Link⚠️ :  https://github.com/prankapple\MemX
+⚠️Link⚠️ :  https://github.com/prankapple\MemX **PLEASE CHECK THE README THIS IS MALICIOUS**
 
 **RunWithPower 🤓**
 
