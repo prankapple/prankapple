@@ -18,6 +18,9 @@ Tetrametacyanide my first noskid gdi trojan. Please use with caution and for edu
 ⚠️Link⚠️ :  [Tetrametacyanide](https://github.com/prankapple/Tetrametacyanide) **PLEASE CHECK THE README THIS IS MALICIOUS**
 
 
+![Alt text](Tetrametacyanide.png?raw=true)
+
+
 **RunWithPower 🤓**
 
 RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
