@@ -10,7 +10,8 @@ MemX is a project that explores malicious software concepts for educational purp
 
 ⚠️Link⚠️ :  [MemX](https://github.com/prankapple/MemX) **PLEASE CHECK THE README THIS IS MALICIOUS**
 
-**MemX 👾**
+
+**Tetrametacyanide 👽**
 
 Tetrametacyanide my first noskid gdi trojan. Please use with caution and for educational purposes only ⚠️.
 
