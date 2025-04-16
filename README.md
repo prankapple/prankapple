@@ -10,6 +10,13 @@ MemX is a project that explores malicious software concepts for educational purp
 
 ⚠️Link⚠️ :  [MemX](https://github.com/prankapple/MemX) **PLEASE CHECK THE README THIS IS MALICIOUS**
 
+**MemX 👾**
+
+Tetrametacyanide my first noskid gdi trojan. Please use with caution and for educational purposes only ⚠️.
+
+⚠️Link⚠️ :  [Tetrametacyanide](https://github.com/prankapple/Tetrametacyanide) **PLEASE CHECK THE README THIS IS MALICIOUS**
+
+
 **RunWithPower 🤓**
 
 RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
