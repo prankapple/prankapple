@@ -2,6 +2,8 @@
 
 Hi! I'm prankapple 😄. I am passionate about software development 💻, especially creating fun and interesting projects 🎮. Check out my repositories to see some of the things I’ve been working on.
 
+# My softwares : https://prankapplesoftware.github.io/
+
 # Projects 🚀
 
 **MemX 👾**
