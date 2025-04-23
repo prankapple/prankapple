@@ -1,8 +1,12 @@
 # Welcome to My GitHub! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=blue)
+
 Hi! I'm prankapple 😄. I am passionate about software development 💻, especially creating fun and interesting projects 🎮. Check out my repositories to see some of the things I’ve been working on.
 
 # My softwares : https://prankapplesoftware.github.io/
+
+
 
 # Projects 🚀
 
