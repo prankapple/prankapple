@@ -42,5 +42,3 @@ Feel free to fork any of my repositories, open issues, or submit pull requests. 
 Contact 📬
 
 If you have questions or suggestions, feel free to reach out via GitHub issues or connect with me on other platforms 🌐.
-
-https://visitor-count-b8lb.vercel.app/api/Github_Username/Repo?hexColor=dd1166
