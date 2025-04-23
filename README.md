@@ -1,31 +1,10 @@
 # Welcome to My GitHub! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=agenericapple&style=for-the-badge&color=red)
-
 Hi! I'm prankapple 😄. I am passionate about software development 💻, especially creating fun and interesting projects 🎮. Check out my repositories to see some of the things I’ve been working on.
 
 # My softwares : https://prankapplesoftware.github.io/
 
-
-
 # Projects 🚀
-
-**MemX 👾**
-
-MemX is a project that explores malicious software concepts for educational purposes 📚. It's a work-in-progress, with a focus on understanding how certain malicious behaviors can be implemented. Please use with caution and for educational purposes only ⚠️.
-
-⚠️Link⚠️ :  [MemX](https://github.com/prankapple/MemX) **PLEASE CHECK THE README THIS IS MALICIOUS**
-
-
-**Tetrametacyanide 👽**
-
-Tetrametacyanide my first noskid gdi trojan. Please use with caution and for educational purposes only ⚠️.
-
-⚠️Link⚠️ :  [Tetrametacyanide](https://github.com/prankapple/Tetrametacyanide) **PLEASE CHECK THE README THIS IS MALICIOUS**
-
-
-![Alt text](Tetrametacyanide.png?raw=true)
-
 
 **RunWithPower 🤓**
 
