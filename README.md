@@ -12,6 +12,11 @@ RunWithPower is a powerful tool that allows you to run programs with different p
 
 🔐Link🔐 : [Runwithpower](https://github.com/prankapple/RunWithPower)
 
+**AFKC AwayFromKeyboardCommand**
+
+A HID device similar to pico ducky.
+Link : [AFKC AwayFromKeyboardCommand](https://github.com/prankapple/AFKC_AwayFromKeyboardCommand)
+
 **GDI tutorial😎**
 
 Tutorial Link : https://www.youtube.com/watch?v=qnngjSVvpzM&t=139s
