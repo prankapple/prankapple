@@ -6,6 +6,12 @@ Hi! I'm prankapple 😄. I am passionate about software development 💻, especi
 
 # Projects 🚀
 
+**SimpleHost 🐍**
+
+The name explains itself, its a simple hosting site that lets you upload your sites for free.
+
+🐍 Link 🐍 : [SimpleHost](https://simple-host.github.io/)
+
 **RunWithPower 🤓**
 
 RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
