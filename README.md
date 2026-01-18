@@ -12,6 +12,12 @@ The name explains itself, its a simple hosting site that lets you upload your si
 
 🐍 Link 🐍 : [SimpleHost](https://simple-host.github.io/)
 
+**🦅 Raveoir Mail 🦅**
+
+A mail application that uses the * symbol as the protocol.
+
+Link : [Raveoir Mail](https://raveoir.vercel.app/)
+
 **RunWithPower 🤓**
 
 RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
