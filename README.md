@@ -4,6 +4,11 @@ Hi! I'm prankapple 😄. I am passionate about software development 💻, especi
 
 # My softwares : https://prankapplesoftware.github.io/
 
+# 🌐 Web it yourself 🌐
+A project that shows how complex seaming apps are simple
+
+LINK : [Web it yourself](https://webityourself.github.io/)
+
 # Projects 🚀
 
 **SimpleHost 🐍**
