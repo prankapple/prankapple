@@ -46,6 +46,4 @@ Contributing 🤝
 Feel free to fork any of my repositories, open issues, or submit pull requests. I appreciate any contributions to help improve these projects 💡.
 Contact 📬
 
-![prankapple's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prankapple&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 If you have questions or suggestions, feel free to reach out via GitHub issues or connect with me on other platforms 🌐.
