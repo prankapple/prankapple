@@ -27,7 +27,7 @@ Link : [Raveoir Mail](https://raveoir.vercel.app/)
 
 RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
 
-🔐Link🔐 : [Runwithpower](https://github.com/prankapple/RunWithPower)
+🔐Link🔐 : [Runwithpower](https://github.com/prankapple/RunWithPower3.0)
 
 **AFKC AwayFromKeyboardCommand**
 
