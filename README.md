@@ -2,7 +2,8 @@
 
 Hi! I'm prankapple 😄. I am passionate about software development 💻, especially creating fun and interesting projects 🎮. Check out my repositories to see some of the things I’ve been working on.
 
-# My softwares : https://prankapplesoftware.github.io/
+# My softwares : [Prankapplesoftware](https://prankapplesoftware.github.io/)
+## The main USB HID device : [NotAKeyboard](https://github.com/prankapple/NotAKeyboard)
 
 # 🌐 Web it yourself 🌐
 A project that shows how complex seaming apps are simple
@@ -36,9 +37,9 @@ Link : [AFKC AwayFromKeyboardCommand](https://github.com/prankapple/AFKC_AwayFro
 
 **GDI tutorial😎**
 
-Tutorial Link : https://www.youtube.com/watch?v=qnngjSVvpzM&t=139s
+Tutorial Link : [tutorial](https://www.youtube.com/watch?v=qnngjSVvpzM&t=139s)
 
-DLLImports : https://github.com/prankapple/DLLImports-gdi
+DLLImports : [the imports](https://github.com/prankapple/DLLImports-gdi)
 
 I have several ongoing projects that may not yet be available for public use. Stay tuned for updates 📡!
 Contributing 🤝
