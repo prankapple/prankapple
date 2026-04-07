@@ -1,50 +1,7 @@
-# Welcome to My GitHub! 👋
+Hello, fellow devs!
 
-Hi! I'm prankapple 😄. I am passionate about software development 💻, especially creating fun and interesting projects 🎮. Check out my repositories to see some of the things I’ve been working on.
+My name is Prankapple (Cory Jame). I have been using github for making and posting my random projects.
 
-# My softwares : [Prankapplesoftware](https://prankapplesoftware.github.io/)
-## The main USB HID device : [NotAKeyboard](https://github.com/prankapple/NotAKeyboard)
+Currently i'm probably bored on not at the PC, so if you have some software or site ideas(that are not trash) you can contact me at:
 
-# 🌐 Web it yourself 🌐
-A project that shows how complex seaming apps are simple
-
-LINK : [Web it yourself](https://webityourself.github.io/)
-
-# Projects 🚀
-
-**SimpleHost 🐍**
-
-The name explains itself, its a simple hosting site that lets you upload your sites for free.
-
-🐍 Link 🐍 : [SimpleHost](https://simple-host.github.io/)
-
-**🦅 Raveoir Mail 🦅**
-
-A mail application that uses the * symbol as the protocol.
-
-Link : [Raveoir Mail](https://raveoir.vercel.app/)
-
-**RunWithPower 🤓**
-
-RunWithPower is a powerful tool that allows you to run programs with different privileges, giving you more control over your system's operations. Whether you need to run applications with elevated permissions or execute tasks under a different user account, RunWithPower makes it easier to handle privilege management securely and efficiently. 🔐
-
-🔐Link🔐 : [Runwithpower](https://github.com/prankapple/RunWithPower3.0)
-
-**AFKC AwayFromKeyboardCommand**
-
-A HID device similar to pico ducky.
-Link : [AFKC AwayFromKeyboardCommand](https://github.com/prankapple/AFKC_AwayFromKeyboardCommand)
-
-**GDI tutorial😎**
-
-Tutorial Link : [tutorial](https://www.youtube.com/watch?v=qnngjSVvpzM&t=139s)
-
-DLLImports : [the imports](https://github.com/prankapple/DLLImports-gdi)
-
-I have several ongoing projects that may not yet be available for public use. Stay tuned for updates 📡!
-Contributing 🤝
-
-Feel free to fork any of my repositories, open issues, or submit pull requests. I appreciate any contributions to help improve these projects 💡.
-Contact 📬
-
-If you have questions or suggestions, feel free to reach out via GitHub issues or connect with me on other platforms 🌐.
+[On email](mailto:prankapple@is.notaskid.ong)
