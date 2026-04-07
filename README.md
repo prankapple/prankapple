@@ -2,6 +2,7 @@ Hello, fellow devs!
 
 My name is Prankapple (Cory Jame). I have been using github for making and posting my random projects.
 
-Currently i'm probably bored on not at the PC, so if you have some software or site ideas(that are not trash) you can contact me at:
+Currently i'm probably bored on not at the PC, so if you have some software or site ideas(that are not trash) you can contact me at: [prankapple@is.notaskid.ong](mailto:prankapple@is.notaskid.ong)
 
-[On email](mailto:prankapple@is.notaskid.ong)
+![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
+
