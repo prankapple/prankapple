@@ -6,5 +6,5 @@ Currently i'm probably bored on not at the PC, so if you have some software or s
 
 ![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
-If you want to see more about me, you can vizit [my site](https://prankapple.is-a.dev/).
+If you want to see more about me, you can visit [my site](https://prankapple.is-a.dev/).
 
