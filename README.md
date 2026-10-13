@@ -8,5 +8,7 @@ Currently i'm probably bored on not at the PC, so if you have some software or s
 
 If you want to see more about me, you can visit [my site](https://prankapple.is-a.dev/).
 
+P.S. If you want to host some sites for freeeee (https://simplehost.onrender.com)[Simplehost] is up again!
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=005EB3&width=435&lines=Rethink.;Rewrite.;Retry.)](https://git.io/typing-svg)
 
