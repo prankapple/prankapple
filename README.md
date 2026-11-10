@@ -4,7 +4,7 @@ My name is Prankapple (Cory Jame). I have been using github for making and posti
 
 Currently i'm probably bored on not at the PC, so if you have some software or site ideas(that are not trash) you can contact me at: [prankapple@is.notaskid.ong](mailto:prankapple@is.notaskid.ong)
 
-!! I made my own jupyter runtime [here](https://alyx.is-a.dev/alyxruntime)
+!! I made my own jupyter runtime [here](https://alyx.is-a.dev/)
 
 ![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
