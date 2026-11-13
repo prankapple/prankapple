@@ -34,6 +34,4 @@ You can contact me at:
 
 ![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=005EB3&width=435&lines=Rethink.;Rewrite.;Retry.)](https://git.io/typing-svg)
-
 </div>
