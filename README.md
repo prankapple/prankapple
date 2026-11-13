@@ -1,16 +1,37 @@
-Hello, fellow devs!
+# Hello, fellow devs!
 
-My name is Prankapple (Cory Jame). I have been using github for making and posting my random projects.
+My name is **Prankapple (Cory Jame)**. I'm a developer who enjoys experimenting with software, building tools, and creating random projects.
 
-Currently i'm probably bored on not at the PC, so if you have some software or site ideas(that are not trash) you can contact me at: [prankapple@is.notaskid.ong](mailto:prankapple@is.notaskid.ong)
+I use GitHub to share my work, experiment with new ideas, and build things that I find interesting.
 
-!! I made my own jupyter runtime [here](https://alyx.is-a.dev/)
+## Projects
+
+### Developer Tools
+
+- **[Alyx Runtime](https://alyx.is-a.dev/)** — My own Jupyter runtime, designed to let you run Python environments remotely.
+
+### Web & Hosting
+
+- **[Simplehost](https://simplehost.onrender.com)** — Free website hosting. It's back online!
+
+### Personal
+
+- **[My Website](https://prankapple.is-a.dev/)** — More information about me and my projects.
+
+## Have an Idea?
+
+I'm always open to interesting software or website ideas. If I'm bored or away from my PC, I might just have time to work on something new!
+
+You can contact me at:
+
+**[prankapple@is.notaskid.ong](mailto:prankapple@is.notaskid.ong)**
+
+---
+
+<div align="center">
 
 ![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
-If you want to see more about me, you can visit [my site](https://prankapple.is-a.dev/).
-
-P.S. If you want to host some sites for freeeee [Simplehost](https://simplehost.onrender.com) is up again!
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=005EB3&width=435&lines=Rethink.;Rewrite.;Retry.)](https://git.io/typing-svg)
 
+</div>
