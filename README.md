@@ -33,6 +33,7 @@ You can contact me at:
 <div align="center">
 
 ![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
+
 ![GitRanks](https://gitranks.com/profile/prankapple)
 
 </div>
