@@ -34,8 +34,6 @@ You can contact me at:
 
 ![Profile Views](https://hits.sh/github.com/prankapple/prankapple.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
-[![prankapple on GitRanks: followers rank #271,391 · top 20%](https://gitranks.com/badge/user/prankapple/rank.svg?by=followers)](https://gitranks.com/profile/prankapple)
-
 [![prankapple on GitRanks: gitranks Pro](https://gitranks.com/badge/user/prankapple/tier.svg?by=contributions)](https://gitranks.com/profile/prankapple)
 
 </div>
