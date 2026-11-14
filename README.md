@@ -10,7 +10,7 @@ My name is **Prankapple (Cory Jame)**. I'm a developer who enjoys experimenting 
 
 I use GitHub to share my work, experiment with new ideas, and build things that I find interesting.
 
-## Projects
+## Projects (the nicer ones)
 
 ### Developer Tools
 
