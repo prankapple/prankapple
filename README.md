@@ -1,4 +1,10 @@
+<div align="center">
+
+![profilepic](https://raw.githubusercontent.com/prankapple/prankapple.github.io/main/resc/profilepic.png)
+
 # Hello, fellow devs!
+
+</div>
 
 My name is **Prankapple (Cory Jame)**. I'm a developer who enjoys experimenting with software, building tools, and creating random projects.
 
